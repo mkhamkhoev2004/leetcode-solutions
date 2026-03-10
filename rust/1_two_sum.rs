@@ -1,3 +1,5 @@
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 use std::collections::HashMap;
 
 impl Solution {
