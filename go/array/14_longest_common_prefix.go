@@ -1,5 +1,5 @@
 // Time Complexity: O(n)
-// Space Complexity: O(n)
+// Space Complexity: O(1)
 package main
 
 func longestCommonPrefix(strs []string) string {
