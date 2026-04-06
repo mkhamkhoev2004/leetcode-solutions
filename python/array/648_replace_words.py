@@ -1,6 +1,8 @@
 # Time Complexity: O(n * m)
 # Space Complexity: O(d + n)
 
+from typing import List
+
 class Solution:
     def replaceWords(self, dictionary: List[str], sentence: str) -> str:
         root_set = set(dictionary)
